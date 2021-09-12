@@ -12,8 +12,8 @@
 - Create env `conda create --name licence-detrec`
 - Install requirements `pip install -r requirements.txt`
 
-- Download pretrained model run `bash bin/download.sh`
-- Alternative way to download via GD [link](https://drive.google.com/file/d/1-EP2Wq4QAytT2oC-qor2-4_kb9wgdtf2/view?usp=sharing) [link](https://drive.google.com/file/d/1mv4AJ3cqe7IpQkFucyWSWeQnLck529nC/view?usp=sharing)
+- Download pretrained model via GD [link](https://drive.google.com/file/d/1-EP2Wq4QAytT2oC-qor2-4_kb9wgdtf2/view?usp=sharing) [link](https://drive.google.com/file/d/1mv4AJ3cqe7IpQkFucyWSWeQnLck529nC/view?usp=sharing)
+- Rename it to medium.pt and put it into detection/models
 
 - Start server:
   `python app.py`
