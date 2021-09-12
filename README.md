@@ -22,7 +22,7 @@
 - Run `docker build -t <name> path/to/app/dir`
 - Run `docker run -p your_port:5000`
 
-## USAGE
+## Usage
 - Send POST request using form or manually 
 ![img.png](repository-files/img.png)
 
