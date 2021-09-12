@@ -32,3 +32,7 @@
 |:---:|
 |![](repository-files/Cars3.png)|
 |![](repository-files/res_car3.png)|
+
+
+
+### This service is based on yolov5 [link](https://github.com/ultralytics/yolov5) and PaddleOcr [link](https://github.com/PaddlePaddle/PaddleOCR)
