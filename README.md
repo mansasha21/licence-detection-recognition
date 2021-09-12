@@ -35,4 +35,4 @@
 
 
 
-### This service is based on yolov5 [link](https://github.com/ultralytics/yolov5) and PaddleOcr [link](https://github.com/PaddlePaddle/PaddleOCR)
+### This service is based on yolov5 [link](https://github.com/ultralytics/yolov5) and PaddleOCR [link](https://github.com/PaddlePaddle/PaddleOCR)
